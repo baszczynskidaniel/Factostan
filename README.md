@@ -35,6 +35,7 @@ Factostan is your daily dose of completely useless, yet fascinating facts — de
 
 ## 📷 Preview
 <img width="100%" alt="Factostan Screenshot" src="https://github.com/user-attachments/assets/6369de16-1bd4-47ec-be46-8741d8d0a0a1" />
+
 ## 📡 Powered By
 
 https://uselessfacts.jsph.pl/
