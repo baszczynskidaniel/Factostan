@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Factostan</string>
+    <string name="save_favourite">Save to favourite</string>
+    <string name="do_not_safe">Nie zapisuj</string>
+    <string name="settings">Ustawienia</string>
+    <string name="next_fact">Nowy fakt</string>
+    <string name="save">Zapisz fakt</string>
+    <string name="copy">Kopiuj</string>
+    <string name="copied_to_clipboard">Skopiowano do schowka</string>
+    <string name="random_facts">Losowy fakt</string>
+    <string name="add_fact">Dodaj fakt</string>
+    <string name="my_facts">Moje fakty</string>
+    <string name="fact_added">Dodano fakt</string>
+    <string name="your_new_fact">Nowy fakt ...</string>
+    <string name="clear_text">Wyczyść tekst</string>
+    <string name="remove_fact">Usuń fakt</string>
+    <string name="language">Język</string>
+    <string name="selected_language">Ustawiony jęęzyk %s</string>
+
+</resources>

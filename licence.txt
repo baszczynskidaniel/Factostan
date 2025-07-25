@@ -1,0 +1,6 @@
+This app uses the following images licensed under the MIT License:
+
+Flag for Poland – https://www.svgrepo.com/svg/401726/flag-for-poland
+Flag for United Kingdom – https://www.svgrepo.com/svg/401788/flag-for-united-kingdom
+
+Copyright (c) joypixels

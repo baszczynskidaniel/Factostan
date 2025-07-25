@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Factostan</string>
+    <string name="save_favourite">Save to favourite</string>
+    <string name="do_not_safe">Do not safe</string>
+    <string name="settings">Settings</string>
+    <string name="next_fact">Next fact</string>
+    <string name="save">Save fact</string>
+    <string name="copy">Copy to clipboard</string>
+    <string name="copied_to_clipboard">Copied to Clipboard</string>
+    <string name="random_facts">Random facts</string>
+    <string name="add_fact">Add fact</string>
+    <string name="my_facts">My facts</string>
+    <string name="fact_added">Fact added</string>
+    <string name="your_new_fact">Your new fact ...</string>
+    <string name="clear_text">Clear fact</string>
+    <string name="remove_fact">Remove fact</string>
+    <string name="language">Language</string>
+    <string name="selected_language">Selected language %s</string>
+
+</resources>
