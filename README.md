@@ -1,7 +1,7 @@
-🧠 Factostan — Android Clean Architecture MVVM
+#🧠 Factostan — Android Clean Architecture MVVM
 
 Factostan is your daily dose of completely useless, yet fascinating facts — delivered with modern Android architecture and polished UI.
-🚀 Features
+##🚀 Features
 
     Fetches random facts from the Useless Facts API
 
@@ -19,7 +19,7 @@ Factostan is your daily dose of completely useless, yet fascinating facts — de
 
     Kotlin Coroutines for async operations
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
     Room – local database
 
@@ -33,8 +33,8 @@ Factostan is your daily dose of completely useless, yet fascinating facts — de
 
     Kotlin Coroutines – asynchronous logic
 
-📷 Preview
+##📷 Preview
 <img width="100%" alt="Factostan Screenshot" src="https://github.com/user-attachments/assets/6369de16-1bd4-47ec-be46-8741d8d0a0a1" />
-📡 Powered By
+##📡 Powered By
 
 https://uselessfacts.jsph.pl/
